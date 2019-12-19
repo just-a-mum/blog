@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<!-- Begin List Posts
+================================================== -->
+
+<div class="row listrecent">
+{% for post in site.posts %}
+  {% if post.categories contains page.category  %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <div class="section-title col-md-12">
+    <h2 id="{{ currentdate | downcase }} "><span class="text-capitalize">{{ page.category }}</span> in <span class="text-capitalize">{{ currentdate }}</span></h2>
+    </div>
+    {% assign date = currentdate %}
+  {% endif %}
+    {% include postbox.html %}
+  {% endif %}
+{% endfor %}
+</div>

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Archive
+permalink: "/years.html"
+---
+
+<!-- Begin List Posts
+================================================== -->
+
+<div class="row listrecent">
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <div class="section-title col-md-12">
+    <h2 id="{{ currentdate | downcase }} ">Year <span class="text-capitalize">{{ currentdate }}</span></h2>
+    </div>
+    {% assign date = currentdate %}
+  {% endif %}
+    {% include postbox.html %}
+{% endfor %}
+</div>

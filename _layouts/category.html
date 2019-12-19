@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-lg-9">
+        <div class="row listrecent">
+            <div class="section-title col-md-12">
+                <h2><span class="text-capitalize">{{ page.category }}</span></h2>
+            </div>
+            {% for post in site.categories[page.category] %}
+                    {% if post.title != null %}
+                        {% include postbox.html %}
+                    {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-lg-3">
+
+
+        <div class="share sticky-top sticky-top-offset">
+            {% if page.category != nil %}
+            <p>Tags</p>
+
+            <ul class="tags mb-4">
+            {% assign tags_list = site.tags | sort %}
+            {% for tag in tags_list %}
+                {% assign display = nil %}
+                {% for post in tag[1] %}
+                    {% if post.categories contains page.category %}
+                        {% assign display = "show" %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if display == "show" %}
+                    <li>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tag/{{ tag[0] | downcase | url_escape | strip | replace: ' ', '-' }}"># {{ tag[0] }} ({{ tag[1].size }})</a>
+                    </li>
+                {% endif %}
+                {% endfor %}
+                {% assign tags_list = nil %}
+                </ul>
+            {% endif %}
+            {% include contact-me.html %}
+        </div>
+
+    </div>
+</div>
