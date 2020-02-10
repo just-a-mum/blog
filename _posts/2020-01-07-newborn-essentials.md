@@ -10,7 +10,7 @@ Do you remember an excitement after the 20 weeks scan? I bet you also wanted to 
 
 Surprisingly babies don't need much in the first few months of their life and there is no need to spend a fortune. I prepared the list of essentials things that you may consider buying before your baby is born.
 
-#### Sleeping <br/>
+##### Sleeping <br/>
 - **mosses basket or crib**<br />
 Newborns don't need their room yet, but they need a safe place to sleep as this is what they do most of their time in the first month. There is no need to go crazy and buy anything expensive as you will use it for 4-6 months only. Though consider getting a rocking stand as this will help you a lot to calm down your little one.
 If you are looking for a cheaper option the check a baby box that became quite popular recently as it perfectly fits the needs of the baby. -
@@ -21,7 +21,7 @@ You might need to buy a mattress separately, though you might be lucky to get it
 - **bed sheets**<br />
 Buy at least a couple of these as they are getting dirty very quickly.
 
-#### Changing Baby<br />
+##### Changing Baby<br />
 - **changing mat**<br />
 Choose good quality and compact changing mat. Most likely you will use it for a couple of years and would need to carry it with you on any trip.
 
@@ -37,7 +37,7 @@ These wipes are designed for the baby's skin and you would need a lot of them. I
 - **nappies disposal system**<br />
 Believe me, you would need one if you don't want your house to smell like dirty nappies.
 
-#### Feeding <br />
+##### Feeding <br />
 - **bottles**<br />
 Even if you are considering to breastfeed you still need a couple of bottles. In case you need to go somewhere your partner can use it fo feed the baby.
 
@@ -47,14 +47,14 @@ You would need one of those to express the excess of milk in the first few month
 - **breast milk storage bags**<br />
 Get a pack with 20 bags to store your breast milk if you are considering to breastfeed. It can be useful to have some milk frozen if you need to go away for a long period and need to leave some food for the baby.
 
-#### Travel
+##### Travel
 - **sling**
 Use sling for the first several months to be mobile. It's useful if you live in a big city ar need to travel on public transport. Babies love sling as they are very close to the mum and always moving. I used sling until my little ones were 4 months.
 - **buggy and child car seat**<br />
 If you are driving and need a child seat then consider buying straight away all-in-one travel system that will have a child car seat included.
 Otherwise get the buggy that is easy to fold and is suitable from the birth until the baby is 3 years.
 
-####  Cloth: 0-3 months<br />
+#####  Cloth: 0-3 months<br />
 Don't buy a lot of cloth, just don't. Babies grow very fast and you will end up not using most of it. Most likely your friends and relatives will gift you some cloth as well.
 I would suggest getting :
 - 1 newborn set (hat, vest, all-in-one suit, mittens) for the hospital

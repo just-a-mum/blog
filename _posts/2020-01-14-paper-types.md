@@ -52,7 +52,7 @@ It is a coarse, coloured paper. It is cheap, low quality and is mainly used for 
 It is a translucent, smooth and glossy paper. It is  usually between 50 - 90 gsm and quite often used for bookbinding.
 
 <hr/>
-#### Paper Weights
+##### Paper Weights
 
 In Europe the weight of the paper is measured in grams per square meter (GSM). The higher the weight, the thicker the paper is.
 
@@ -65,7 +65,7 @@ In Europe the weight of the paper is measured in grams per square meter (GSM). T
 - **400 gsm and above**: It's a very thick card that is good for making boxes for your cards
 
 <hr/>
-#### Paper Finish
+##### Paper Finish
 
 The finish of the paper should be chosen based on what you are considering to do. For card making you usually use un-coated paper. If you are looking for some shine on your paper then coated paper is your option.
 
