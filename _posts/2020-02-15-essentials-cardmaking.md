@@ -4,6 +4,8 @@ title:  "Essentials for Your Cardmaking and Scrapbooking"
 categories: [ crafts ]
 tags: [ guide ]
 image: assets/images/11.jpg
+featured: true
+hidden: true
 ---
 
 When you are just starting making cards or doing scrapbooking you don't need many tools. However, once you realized that this is something you love doing you can try more techniques, buy more tools and experiment even more.

@@ -6,7 +6,7 @@
                 <div class="h-100">
                     <div class="wrapthumbnail">
                         <a href="{{ site.baseurl }}{{ post.url }}">
-                            <img class="featured-box-img-cover" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
+                            <img class="featured-box-img-cover"  alt="{{ post.title }}" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}">
                         </a>
                     </div>
                 </div>

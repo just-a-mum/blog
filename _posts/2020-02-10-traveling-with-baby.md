@@ -4,6 +4,8 @@ title:  "Traveling With Baby"
 categories: [ 'traveling' ]
 tags: ['baby', 'flight']
 image: assets/images/9.jpg
+featured: true
+hidden: true
 
 ---
 
