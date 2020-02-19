@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Keep Me Smiling or Why My Baby Is Crying"
+title:  "Keep me Smiling"
 categories: [ parenting ]
 tags: [baby]
 

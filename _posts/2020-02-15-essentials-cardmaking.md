@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Essentials for Your Cardmaking and Scrapbooking"
+title:  "Cardmaking and Scrapbooking Essentials"
 categories: [ crafts ]
 tags: [ guide ]
 image: assets/images/11.jpg
@@ -16,7 +16,7 @@ I provided below the list of items that you might need for your card making or s
 
 Paper is essential and must have for card making or scrapbooking. You would need the paper of various colors and thicknesses. You can also experiment with different finishes or try to use cardboard. For the cardbase, I would suggest using 300 gsm paper and for the layering 160 - 220 gsm. There is another post that covers deferent types of paper.
 
-###### 2. Cutting mat
+##### 2. Cutting mat
 
 It is important to have a cutting mat to protect your surface from the damage when you use a craft knife. It also makes it easier to work on your project as it has a measurement grid on the top of it.
 

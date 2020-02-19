@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Paper Guide for Your Crafts"
+title:  "Paper Guide for your Crafts"
 categories: [ crafts ]
 tags: [paper, guide]
 image: assets/images/6.jpg

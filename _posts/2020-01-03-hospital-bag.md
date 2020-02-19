@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What to Have in the Hospital Bag"
+title:  "Packing the Hospital Bag"
 categories: [ 'parenting' ]
 tags: ['pregnancy', 'labour']
 image: assets/images/1.jpg

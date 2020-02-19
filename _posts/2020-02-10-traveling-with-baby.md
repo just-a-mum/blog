@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Traveling With Baby"
+title:  "Traveling with Baby"
 categories: [ 'traveling' ]
 tags: ['baby', 'flight']
 image: assets/images/9.jpg

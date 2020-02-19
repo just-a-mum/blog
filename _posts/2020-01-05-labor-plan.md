@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Prepare for The Big Day: Plan of Actions for The Labour Day"
+title:  "Plan of Actions for the Labour Day"
 categories: [ parenting ]
 tags: [ 'pregnancy', 'labour']
 image: assets/images/2.jpg

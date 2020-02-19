@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Plan Your Finances to Support Your Baby"
+title:  "Plan your Finances to Support your Baby"
 categories: [ parenting ]
 tags: [baby]
 image: assets/images/4.jpg

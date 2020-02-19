@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What to Buy When You Expect a Baby"
+title:  "Newborn Essentials"
 categories: [ parenting ]
 tags: [baby]
 image: "assets/images/5.jpg"

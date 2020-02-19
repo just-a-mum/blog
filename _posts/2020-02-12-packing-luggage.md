@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What to Pack in Your Luggage for Baby"
+title:  "Pack your Baby for a Trip"
 categories: [ 'traveling' ]
 tags: ['baby', 'flight']
 image: assets/images/10.jpg
