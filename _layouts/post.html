@@ -39,21 +39,25 @@ post_class: post-template
             <!-- End Featured Image -->
 
             <!-- Post Content -->
-            <div class="article-post">
-                {{content}}
+            <div class="sidebar-box">
+                <div class="article-post ">
+                    {{content}}
+                    <p>
+                        <small>
+                            <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+                            {% if page.last_modified_at %}
+                            (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                            {% endif %}
+                            </small>
+                    </p>
+                </div>
+
+                <!-- Post Date -->
+                <div class="read-more"><a href="#" class="btn btn-secondary">Read More +</a></div>
             </div>
 
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
 
-
+            <hr/>
 
             <!-- Prev/Next -->
             <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
@@ -66,7 +70,7 @@ post_class: post-template
             <div class="clearfix"></div>
             </div>
             <!-- End Categories -->
-            <br/><br/>
+            <hr/>
             <div class="commentbox"></div>
         </div>
         <!-- End Post -->
@@ -110,3 +114,10 @@ post_class: post-template
 </section>
 <!-- End Article
 ================================================== -->
+{% if jekyll.environment == 'production' %}
+<script>
+  $(".sidebar-box .btn").click(function() {
+    ga('send', 'event', '{{ page.title }}', 'Read More')
+  })
+</script>
+{% endif %}
