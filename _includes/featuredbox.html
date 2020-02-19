@@ -15,6 +15,9 @@
                 <div class="h-100 card-group">
                     <div class="card">
                         <div class="card-body">
+                            {% for category in post.categories %}
+                            <a href="{{ site.baseurl }}/{{ category }}" class="btn btn-success mb-3 py-1 px-3 text-capitalize"><small>{{ category }}</small></a>
+                            {% endfor %}
                             <h2 class="card-title">
                                 <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
                             </h2>
