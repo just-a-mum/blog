@@ -712,7 +712,7 @@ iframe {
 @media (min-width:768px) {
     .jumbotron.fortags {
         padding: 0;
-        height: 350px;
+        height: 250px;
         border-radius: 0;
         background-image: url(../images/jumbotron.jpg);
         background-size: cover;

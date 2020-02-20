@@ -5,8 +5,6 @@ categories: [ parenting ]
 tags: [ 'pregnancy', 'labour']
 image: assets/images/2.jpg
 description: "We all impatiently wait for the little one to come to this world, but how do we prepare for the big day?"
-featured: true
-hidden: true
 ---
 
 Are you already at the end of your third trimester? This is a very exciting time as you will meet your baby very soon for the first time.  You never know when your little one decides to arrive and sometimes it happens earlier than you expect. It's better to be prepared in advance to avoid frustration.
