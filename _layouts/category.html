@@ -8,6 +8,10 @@ layout: default
             <div class="section-title col-md-12">
                 <h2><span class="text-capitalize">{{ page.category }}</span></h2>
             </div>
+            <div class="col-md-12">
+                {{content}}
+                <br/> <br/>
+            </div>
             {% for post in site.categories[page.category] %}
                     {% if post.title != null %}
                         {% include postbox.html %}

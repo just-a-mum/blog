@@ -1,19 +1,27 @@
 ---
 layout: page
-title: I'm Glad to See You Here
+title: How It Started
 permalink: /about
 ---
 
 <div class="row justify-content-between">
 <div class="col-md-3 p-5">
-
 <p class="mb-5"><img  class="rounded-circle z-depth-2" src="{{site.baseurl}}/assets/images/avatar.jpg" /></p>
 </div>
 <div class="col-md-9 p-5">
-<p>I'm Amanda, a mum of two amazing baby boys. A long time ago I had a very busy and active life, but motherhood changed everything. I started rethinking my life and changing my priorities.
-These days I spend much more time doing various craft projects, looking after kids and doing yoga classes. </p>
-<p>I never thought before that I will ever start a blog, but here we are. I hope that you will find it quite informative and entertaining.
-I mainly write about the challenges of motherhood, traveling and crafting.</p>
+<p>It was a dark, cold and rainy evening. The perfect weather to stay at home and play some quiet games with kids or read books.
+I was sitting on the sofa with my two baby boys.
+We were trying to put pieces of the puzzle together. To be honest, they were playing happily by themselves. I was just sitting next to them and thinking about life.
+This was one of the moments when no one is screaming and I can relax and enjoy the time.</p>
+<p>Since my first baby was born my life changed completely. I used to be a software developer and now my normal day is spinning around kids and the house.
+Every day is a new challenge and it's far from the family life that is advertised by the media.
+It's much harder than I expected and I wasn't fully prepared. Sometimes I'm so exhausted that I don't have any energy even to do basic house chores.</p>
+
+<p>How do other people manage their work and family life? There are so many mums around and every one of them goes through this. </p>
+
+<p>That evening I decided to start a blog where I can share the challenges of motherhood and how I solve them.</p>
+
+
 <p>If you would like to contact me you can do so by using the form below.</p>
 <br/><br/>
 
@@ -39,7 +47,7 @@ I mainly write about the challenges of motherhood, traveling and crafting.</p>
         </div>
     </div>
      <button class="btn btn-secondary my-2"><i class="fa fa-paper-plane"></i>&nbsp;Send</button>
-     </div>
+    </div>
     <div class="text-center p-5 thankyou_message" style="display:none;">
       <h5>
          Thanks for contacting me!
